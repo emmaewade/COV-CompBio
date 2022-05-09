@@ -8,5 +8,5 @@ Scripts used in Spring 2022 CSE 4623 (Computational Biology) final project, *Gen
 
 # References 
 
-- <sup>1</sup> Alsamman, A. M., &amp; Zayed, H. (n.d.). The transcriptomic profiling of SARS-COV-2 compared to SARS, MERS, EBOV, and H1N1. PLOS ONE. https://doi.org/10.1371/journal.pone.0243270 
+<sup>1</sup> Alsamman, A. M., &amp; Zayed, H. (n.d.). The transcriptomic profiling of SARS-COV-2 compared to SARS, MERS, EBOV, and H1N1. PLOS ONE. https://doi.org/10.1371/journal.pone.0243270 
 
