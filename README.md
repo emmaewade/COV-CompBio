@@ -4,7 +4,7 @@ Scripts used in Spring 2022 CSE 4623 (Computational Biology) final project, *Gen
 
 # Scripts 
 
-*using_com_data.R* : differentially expressed gene analysis between infected and uninfected pateients of COVID-19, SARS, MERS, H1N1, and EBOLA. DEG data provided by https://github.com/AlsammanAlsamman/Alsamman-and-Zayed-SARS-CoV-2 <sup>1</sup>
+*using_com_data.R* : differentially expressed gene analysis between infected and uninfected pateients of *COVID-19, SARS, MERS, H1N1, and EBOLA*. DEG data provided by https://github.com/AlsammanAlsamman/Alsamman-and-Zayed-SARS-CoV-2 <sup>1</sup>
 
 # References 
 
